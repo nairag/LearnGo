@@ -2,6 +2,7 @@ package myfile
 
 import "fmt"
 
-func myfile() {
+//Myfile is a function
+func Myfile() {
 	fmt.Println("my file")
 }
