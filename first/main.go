@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("Anoop G Nair")
-	fmt.Println("Krithi A Nair")
+	fmt.Println(`Anoop G Nair`)
+	hey()
+	bye()
 }
